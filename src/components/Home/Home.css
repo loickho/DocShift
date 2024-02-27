@@ -1,0 +1,9 @@
+.home {
+  display: flex;
+  justify-content: space-between;
+}
+
+button {
+  height: 5vh;
+  width: 30vw;
+}
